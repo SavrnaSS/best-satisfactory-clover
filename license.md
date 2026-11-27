@@ -194,4 +194,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Satisfactory · Updated 2026-11-26 · Shared under the MIT License*
+*Satisfactory · Updated 2026-11-27 · Shared under the MIT License*
